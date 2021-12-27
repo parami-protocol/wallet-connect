@@ -1,0 +1,1 @@
+(self.webpackChunkparami_wallet=self.webpackChunkparami_wallet||[]).push([[571],{91562:function(f,n,a){"use strict";a.r(n);var t=a(51625),E=a(67294),_=a(43581),u=a(85893),P=function(){return(0,E.useEffect)(function(){_.m8.push(t.Z.page.homePage)},[]),(0,u.jsx)(u.Fragment,{})};n.default=P}}]);
